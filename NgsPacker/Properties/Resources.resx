@@ -118,52 +118,52 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="HomeText" xml:space="preserve">
-    <value>Home</value>
+    <value>На главную</value>
   </data>
   <data name="VisitText" xml:space="preserve">
-    <value>Visit Project Site</value>
+    <value>Сайт проекта</value>
   </data>
   <data name="ToggleThemeText" xml:space="preserve">
-    <value>Dark Theme</value>
+    <value>Темная тема</value>
   </data>
   <data name="ToggleDarkThemeTooltip" xml:space="preserve">
-    <value>Toggle dark theme</value>
+    <value>Переключить темную тему</value>
   </data>
   <data name="LanguageText" xml:space="preserve">
-    <value>Language</value>
+    <value>Язык</value>
   </data>
   <data name="NotifyCompleteText" xml:space="preserve">
-    <value>Notify when completed</value>
+    <value>Оповестить о завершении</value>
   </data>
   <data name="NotifyCompleteTooltip" xml:space="preserve">
-    <value>A desktop notification is issued when the process is completed.</value>
+    <value>При завершении на рабочем столе появится уведомление о завершении процесса.</value>
   </data>
   <data name="WhiteListText" xml:space="preserve">
     <value>File name to classify into group 1 (last match, Line break delimiter)</value>
   </data>
   <data name="UnpackText" xml:space="preserve">
-    <value>Unpack</value>
+    <value>Распаковать</value>
   </data>
   <data name="PackText" xml:space="preserve">
-    <value>Pack</value>
+    <value>Запаковать</value>
   </data>
   <data name="PackDialogText" xml:space="preserve">
-    <value>Select the directory that contains the files you want to pack.</value>
+    <value>Выберите папку с файлами для запаковки.</value>
   </data>
   <data name="UnpackDialogText" xml:space="preserve">
-    <value>Select the * .ice file you want to unpack.</value>
+    <value>Выберите * .ice файлы для распаковки.</value>
   </data>
   <data name="SaveAsDialogText" xml:space="preserve">
-    <value>Please specify the save destination.</value>
+    <value>Выберите папку для сохранения.</value>
   </data>
   <data name="PackingText" xml:space="preserve">
-    <value>Packing...</value>
+    <value>Запаковка...</value>
   </data>
   <data name="UnpackingText" xml:space="preserve">
-    <value>Unpacking...</value>
+    <value>Распаковка...</value>
   </data>
   <data name="ErrorTitleText" xml:space="preserve">
-    <value>Error</value>
+    <value>Ошибка</value>
   </data>
   <data name="IceFileFilterText" xml:space="preserve">
     <value>PSO2 Data File (*.ice)|*.ice</value>
